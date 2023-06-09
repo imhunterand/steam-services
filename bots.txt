@@ -1,0 +1,4 @@
+usernamebot:password:share_key
+usernamebot:password:share_key
+usernamebot:password:share_key
+usernamebot:password:share_key
